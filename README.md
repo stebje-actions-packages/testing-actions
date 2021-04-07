@@ -15,3 +15,4 @@ Collection of material for testing GitHub Actions.
     | Success
     [Basic workflow/printStuff]   ✅  Success - Print stuff
     ```
+5. See the [nektos/act documentation](https://github.com/nektos/act#commands) for a list of commands
