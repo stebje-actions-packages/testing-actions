@@ -1,0 +1,11 @@
+name: Basic workflow
+
+on:
+  issues:
+
+jobs:
+  printStuff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print stuff
+        runs: echo "Success"
