@@ -1,7 +1,7 @@
 name: Basic workflow
 
 on:
-  issues:
+  push:
 
 jobs:
   printStuff:
